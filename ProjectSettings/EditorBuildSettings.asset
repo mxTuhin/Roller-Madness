@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d6ae025634ca3794ab816bbe61a29b3e
+  - enabled: 1
+    path: Assets/Scenes/MadRoller.unity
+    guid: 41fe0f2d6891cd64180c5a2afc0d343f
+  - enabled: 1
+    path: Assets/Scenes/MadRollerL2.unity
+    guid: 0e9ca771be2dac742ad772add2e19e03
+  m_configObjects: {}
